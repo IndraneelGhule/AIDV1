@@ -6,7 +6,9 @@ public class CalucaulateSunOfNoInString {
 		// TODO Auto-generated method stub
 		System.out.println("HI");
 		
+		System.out.println("HI");
 
+			
 	}
 
 }
